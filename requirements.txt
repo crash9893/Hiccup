@@ -6,4 +6,9 @@ python-dotenv==1.0.0
 loguru==0.7.2
 pynput==1.7.6
 keyboard==0.13.5
-mouse==0.7.1 
+mouse==0.7.1
+SpeechRecognition==3.10.0
+PyAudio==0.2.13
+pywin32==306
+urllib3==2.1.0
+requests==2.31.0 
